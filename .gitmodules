@@ -1,0 +1,10 @@
+[submodule "src/kinco_diff_controller"]
+	path = src/kinco_diff_controller
+	url = https://github.com/itsmevjnk/kinco_diff_controller.git
+[submodule "src/two_wheel_mr"]
+	path = src/two_wheel_mr
+	url = https://github.com/itsmevjnk/two_wheel_mr.git
+[submodule "src/slam_gmapping"]
+	path = src/slam_gmapping
+	url = https://github.com/charlielito/slam_gmapping.git
+	branch = feature/namespace_launch
