@@ -11,3 +11,8 @@
 [submodule "src/rviz_hmi_plugins"]
 	path = src/rviz_hmi_plugins
 	url = https://github.com/itsmevjnk/rviz_hmi_plugins.git
+[submodule "src/frcobot_ros2"]
+	path = src/frcobot_ros2
+	url = https://github.com/itsmevjnk/frcobot_ros2.git
+	branch = v3_r3.8.0
+	
