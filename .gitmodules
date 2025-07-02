@@ -12,3 +12,6 @@
 	url = https://github.com/itsmevjnk/frcobot_ros2.git
 	branch = v3_r3.8.0
 	
+[submodule "src/radeye_ros"]
+	path = src/radeye_ros
+	url = https://github.com/itsmevjnk/radeye_ros.git
