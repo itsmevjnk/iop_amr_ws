@@ -15,3 +15,9 @@
 [submodule "src/radeye_ros"]
 	path = src/radeye_ros
 	url = https://github.com/itsmevjnk/radeye_ros.git
+[submodule "src/ros2_astra_camera"]
+	path = src/ros2_astra_camera
+	url = https://github.com/yosefl20/ros2_astra_camera.git
+[submodule "src/OrbbecSDK_ROS2"]
+	path = src/OrbbecSDK_ROS2
+	url = https://github.com/orbbec/OrbbecSDK_ROS2.git
