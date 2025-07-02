@@ -4,10 +4,6 @@
 [submodule "src/two_wheel_mr"]
 	path = src/two_wheel_mr
 	url = https://github.com/itsmevjnk/two_wheel_mr.git
-[submodule "src/slam_gmapping"]
-	path = src/slam_gmapping
-	url = https://github.com/charlielito/slam_gmapping.git
-	branch = feature/namespace_launch
 [submodule "src/rviz_hmi_plugins"]
 	path = src/rviz_hmi_plugins
 	url = https://github.com/itsmevjnk/rviz_hmi_plugins.git
